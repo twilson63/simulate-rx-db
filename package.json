@@ -1,0 +1,17 @@
+{
+  "name": "sim-rx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "license": "MIT",
+  "dependencies": {
+    "cuid": "^1.3.8",
+    "faker": "^4.1.0",
+    "isomorphic-fetch": "^2.2.1",
+    "pouchdb-http": "^6.0.2",
+    "ramda": "^0.23.0"
+  },
+  "scripts": {
+    "createdb": "node index.js"
+  }
+}
